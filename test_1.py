@@ -11,7 +11,7 @@ a = input("请输入你要的数字：")
 	
 print(fib(int(a)))	
 
-
+#汉诺塔解决
 
 def hano(n,a,b,c):
 	
